@@ -1,4 +1,4 @@
-# 使用request + BeautifulSoup提取安居客北京二手房信息
+# 使用request + BeautifulSoup提取AJK北京二手房信息
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
