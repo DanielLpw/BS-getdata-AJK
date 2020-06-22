@@ -1,4 +1,4 @@
-# 使用request + BeautifulSoup提取AJK北京二手房信息
+# 使用request + BeautifulSoup获取数据
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
